@@ -3,7 +3,7 @@
 
 Title: Library Management
 
-Description: This is a Library Management System for my CV and written in 2 day. I will update it, maybe can change the whole code and will fix the bugs
+Description: This is a Library Management System for my CV and written in 2 day. I will update it, maybe can change the whole code and will fix the bugs. Tried to use ENUMS and COLLECTIONS.
 
 Prerequisites: Needs to be download mysql connector 8.0.31.jar and added to libraries.
 
